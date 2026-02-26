@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1772078648|18982668355';
+const CACHE_VERSION = '1772079305|19639839866';
 /** @type {string} */
 const CACHE_PREFIX = 'Love at First Kn-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
